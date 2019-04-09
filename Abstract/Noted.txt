@@ -1,0 +1,5 @@
+﻿An abstract class cannot be a sealed class.
+An abstract method cannot be private.
+An abstract method cannot have the modifier virtual. Because an abstract method is implicitly virtual.
+An abstract member cannot be static.
+An abstract class can have abstract members as well non abstract members. But in an interface all the members are implicitly abstract and all the members of the interface must override to its derived class.

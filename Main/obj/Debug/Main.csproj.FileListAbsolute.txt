@@ -1,0 +1,12 @@
+D:\C#\OOP FUNDAMENTALS\Main\bin\Debug\Main.exe.config
+D:\C#\OOP FUNDAMENTALS\Main\bin\Debug\Main.exe
+D:\C#\OOP FUNDAMENTALS\Main\bin\Debug\Main.pdb
+D:\C#\OOP FUNDAMENTALS\Main\bin\Debug\Abstract.dll
+D:\C#\OOP FUNDAMENTALS\Main\bin\Debug\Abstract.pdb
+D:\C#\OOP FUNDAMENTALS\Main\obj\Debug\Main.csprojAssemblyReference.cache
+D:\C#\OOP FUNDAMENTALS\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\C#\OOP FUNDAMENTALS\Main\obj\Debug\Main.csproj.CopyComplete
+D:\C#\OOP FUNDAMENTALS\Main\obj\Debug\Main.exe
+D:\C#\OOP FUNDAMENTALS\Main\obj\Debug\Main.pdb
+D:\C#\OOP FUNDAMENTALS\Main\bin\Debug\Interface.dll
+D:\C#\OOP FUNDAMENTALS\Main\bin\Debug\Interface.pdb

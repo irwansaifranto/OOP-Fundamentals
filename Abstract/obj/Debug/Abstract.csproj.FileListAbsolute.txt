@@ -1,0 +1,5 @@
+D:\C#\OOP FUNDAMENTALS\Abstract\bin\Debug\Abstract.dll
+D:\C#\OOP FUNDAMENTALS\Abstract\bin\Debug\Abstract.pdb
+D:\C#\OOP FUNDAMENTALS\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+D:\C#\OOP FUNDAMENTALS\Abstract\obj\Debug\Abstract.dll
+D:\C#\OOP FUNDAMENTALS\Abstract\obj\Debug\Abstract.pdb

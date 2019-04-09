@@ -1,0 +1,6 @@
+D:\C#\OOP FUNDAMENTALS\Interface\bin\Debug\Interface.dll
+D:\C#\OOP FUNDAMENTALS\Interface\bin\Debug\Interface.pdb
+D:\C#\OOP FUNDAMENTALS\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+D:\C#\OOP FUNDAMENTALS\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\C#\OOP FUNDAMENTALS\Interface\obj\Debug\Interface.dll
+D:\C#\OOP FUNDAMENTALS\Interface\obj\Debug\Interface.pdb
